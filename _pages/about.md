@@ -19,10 +19,10 @@ In particular, I have interests in precision medicine (especially using metabolo
 ### Data Analysis/Data Science
 > Data gathering, storage, cleaning, visualization, and stastistical analysis; predictive modeling using supervised and unsupervised machine learning and AI
 
-- Python (including numpy, pandas, matplolib, seaborn, scikit-learn, tensor-flow)
+- Python (including NumPy, Pandas, Matplolib, Seaborn, Scikit-learn, TensorFlow)
+- R
 - SQL
 - Tableau
-- R
 - Git/Github (version control)
 
 
@@ -30,4 +30,4 @@ In particular, I have interests in precision medicine (especially using metabolo
 > Full stack web development
 
  - HTML5/CSS3
- - Javascript (including node.js, express.js, mongoose/mongoDB, react.js)
+ - Javascript (including Node.js, Express.js, Mongoose/MongoDB, React.js)
