@@ -4,4 +4,30 @@ title: About Me
 permalink: /about/
 ---
 
-I'm a Naturoapathic physician and former professor, currently training to be a data scientist 
+## About Me
+
+I’m a naturopathic physician and former professor, now training to be a data analyst and data scientist. 
+
+My interests include the application of data visualization, analysis, and predictive modeling to improve medical practice and health outcomes, and to advance medical knowledge. 
+
+In particular, I have interests in precision medicine (especially using metabolomic data) and real-time monitoring of physiology through non-invasive biosensors (using thermal, electrical, and optical data). 
+
+
+
+## Skills
+
+### Data Analysis/Data Science
+> Data gathering, storage, cleaning, visualization, and stastistical analysis 
+> Predictive modeling using supervised and unsupervised machine learning and AI
+
+- Python (including numpy, pandas, matplolib, seaborn, scikit-learn, tensor-flow)
+- SQL
+- Tableau
+- R
+- Git/Github (version control)
+
+### Software Development
+> Full stack web development
+
+ - HTML5/CSS3
+ - Javascript (including node.js, express.js, mongoose/mongoDB, react.js)
