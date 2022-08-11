@@ -17,14 +17,14 @@ In particular, I have interests in precision medicine (especially using metabolo
 ## Skills
 
 ### Data Analysis/Data Science
-> Data gathering, storage, cleaning, visualization, and stastistical analysis 
-> Predictive modeling using supervised and unsupervised machine learning and AI
+> Data gathering, storage, cleaning, visualization, and stastistical analysis; predictive modeling using supervised and unsupervised machine learning and AI
 
 - Python (including numpy, pandas, matplolib, seaborn, scikit-learn, tensor-flow)
 - SQL
 - Tableau
 - R
 - Git/Github (version control)
+
 
 ### Software Development
 > Full stack web development
