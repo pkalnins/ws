@@ -6,11 +6,11 @@ permalink: /about/
 
 ## About Me
 
-I’m a naturopathic physician and former professor, now training to be a data analyst and data scientist. 
+> I’m a naturopathic physician and former professor, now training to be a data analyst and data scientist. 
 
-My interests include the application of data visualization, analysis, and predictive modeling to improve medical practice and health outcomes, and to advance medical knowledge. 
+> My interests include the application of data visualization, analysis, and predictive modeling to improve medical practice and health outcomes, and to advance medical knowledge. 
 
-In particular, I have interests in precision medicine (especially using metabolomic data) and real-time monitoring of physiology through non-invasive biosensors (using thermal, electrical, and optical data). 
+> In particular, I have interests in precision medicine (especially using metabolomic data) and real-time monitoring of physiology through non-invasive biosensors (using thermal, electrical, and optical data). 
 
 
 ## Background
