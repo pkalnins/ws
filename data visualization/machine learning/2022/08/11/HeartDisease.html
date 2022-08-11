@@ -81,7 +81,7 @@ window.onload = wrap_img;
        • <span class="read-time" title="Estimated read time">
     
     
-      13 min read
+      14 min read
     
 </span></p>
 
@@ -175,13 +175,18 @@ window.onload = wrap_img;
 <blockquote>
 <p>Given clinical parameters about a patient, can we predict whether or not they have heart disease?</p>
 </blockquote>
-<p><strong>Sources:</strong>- The original source of the dataset is from <a href="https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction">Kaggle</a> (combines 5 heart datasets over 11 common features). This project uses a modified version of the dataset.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><strong>Sources:</strong></p>
 <ul>
-<li>Fares Sayah on <a href="https://www.kaggle.com/code/faressayah/predicting-heart-disease-using-machine-learning">Kaggle</a>
-</li>
-<li>Karan Bhanot on <a href="https://towardsdatascience.com/predicting-presence-of-heart-diseases-using-machine-learning-36f00f3edb2c">Medium</a>
-<br>
-<br>
+<li>The original dataset is from <a href="https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction">Kaggle</a>, which combines 5 heart disease datasets over 11 common features; this project uses a modified version of the dataset. </li>
+<li>The project below closely followed <a href="https://www.kaggle.com/code/faressayah/predicting-heart-disease-using-machine-learning">Fares Sayah's</a> Kaggle project to explore the data. </li>
+<li>I also derived insights from Karan Bhanot's article on <a href="https://towardsdatascience.com/predicting-presence-of-heart-diseases-using-machine-learning-36f00f3edb2c">Medium</a>
 </li>
 </ul>
 
@@ -1092,11 +1097,11 @@ dtype: int64</pre>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p></p>
-<div class="flash">
-    <svg class="octicon octicon-info" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"></path></svg>
-    <strong>Note: </strong>it looks like there are 165 people with heart disease, and 138 without, so the dataset is fairly balanced. Also, there are no null values. 
-</div>
+<p><strong>Note:</strong></p>
+<ul>
+<li>It looks like there are 165 people with heart disease, and 138 without, so the dataset is fairly balanced. </li>
+<li>Also, there are no null values. </li>
+</ul>
 
 </div>
 </div>
@@ -1470,11 +1475,11 @@ dtype: int64</pre>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p></p>
-<div class="flash">
-    <svg class="octicon octicon-info" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"></path></svg>
-    <strong>Note: </strong>The presence of chest pain and thalach (highest pulse rate acheived on stress test) seem to have the highest correlations with the target value. Fasting blood sugar and cholesterol have the lowest correlation with the target variable. 
-</div>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>The presence of chest pain and thalach (highest pulse rate acheived on stress test) seem to have the highest correlations with the target value. </li>
+<li>Also, fasting blood sugar and cholesterol have the lowest correlation with the target variable. </li>
+</ul>
 
 </div>
 </div>
@@ -2216,9 +2221,15 @@ Index(['age', 'trestbps', 'chol', 'thalach', 'oldpeak', 'target', 'sex_0',
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Now that the data is split into training and test sets, I can build machine learning models</p>
+<p>Now that the data is split into training and test sets, machine learning models can be created</p>
+<ul>
+<li>
 <p><strong>Train</strong> the data on the training set</p>
+</li>
+<li>
 <p><strong>Test</strong> on the test set</p>
+</li>
+</ul>
 <p>Here, I'll try 5 different machine learning models:</p>
 <ul>
 <li>Logistic Regression</li>
