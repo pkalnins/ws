@@ -15,7 +15,7 @@ In particular, I have interests in precision medicine (especially using metabolo
 
 ## Background
 
-I have practiced as a primary care naturopathic physician for 22 years, focusing primarily on offering integrative care for patients with a variety of chronic health conditions.  
+I have practiced as a primary care naturopathic physician since 1998, focusing primarily on offering integrative care for patients with a variety of chronic health conditions.  
 
 For much of that time, I served as an Assistant Professor of Naturopathic Medicine at the National University of Natural Medicine (NUNM) in Portland, Oregon.  There, I taught various courses in the basic medical sciences (physiology, pharmacology and herbal pharmacology, pathology), evidence-based medicine, and neuroendocrinology. I also attended to patients and supervised students in the university’s outpatient teaching clinics.  And through NUNM’s Helfgott Research Institute, I participated in evidence-based research and mentored students. 
 
